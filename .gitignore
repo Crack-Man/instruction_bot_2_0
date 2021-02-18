@@ -1,0 +1,6 @@
+/venv/
+/venv/*
+/files/
+/files/*
+db.db
+config.py
